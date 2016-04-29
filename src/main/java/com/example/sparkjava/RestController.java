@@ -1,6 +1,4 @@
-package com.example;
-
-import spark.Response;
+package com.example.sparkjava;
 
 import static spark.Spark.*;
 
